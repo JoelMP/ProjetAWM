@@ -1,0 +1,10 @@
+{
+    "name": "Hello",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "ageri",
+    "contributors": [],
+    "dependencies": {}, "scripts":{
+"start":"node www\/js\/index.js Files\\NetBeans 8.2\\index.js"}
+
+}
