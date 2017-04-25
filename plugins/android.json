@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "fr.ensimag.HelloWorld"
+        },
+        "at.oneminutedistraction.phonenumber": {
+            "PACKAGE_NAME": "fr.ensimag.HelloWorld"
         }
     },
     "dependent_plugins": {}
